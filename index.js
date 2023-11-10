@@ -1,5 +1,5 @@
-function winRate(win, lose){
-    let winRate = win - lose
+function winRate(win, loss){
+    let winRate = win - loss
     return winRate
 }
 
